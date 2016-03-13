@@ -1,0 +1,36 @@
+.fleft {
+  float: left;
+}
+
+.fright {
+  float: right;
+}
+
+.mb0 {
+  margin-bottom: 0;
+}
+
+.mb1 {
+  margin-bottom: 1em;
+}
+
+.mb2 {
+  margin-bottom: 2em;
+}
+
+.mt0 {
+  margin-top: 0;
+}
+
+.mt1 {
+  margin-top: 1em;
+}
+
+.mr1 {
+  margin-right: 1em;
+}
+
+.p1 {
+  padding: 1em;
+}
+
